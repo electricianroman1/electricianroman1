@@ -6,4 +6,4 @@
 
 - **[claude-skill-end-session](https://github.com/electricianroman1/claude-skill-end-session)** — навык для Claude Code (Windows): закрывает процесс сессии и освобождает оперативную память. Лицензия MIT, пользуйтесь свободно.
 - **[bicycle](https://github.com/electricianroman1/bicycle)** — инструкция по установке MongoDB и MongoDB Compass на Ubuntu.
-- **[ha-orangepi-showcase](https://github.com/electricianroman1/ha-orangepi-showcase)** — мой умный дом 🏠: Home Assistant на Orange Pi, Telegram-бот и скрипты. Лицензия MIT, берите что пригодится.
+- **[ha-orangepi-showcase](https://github.com/electricianroman1/ha-orangepi-showcase)** — мой умный дом 🏠: Home Assistant на Orange Pi, Telegram-бот и скрипты.
